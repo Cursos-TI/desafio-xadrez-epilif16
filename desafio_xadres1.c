@@ -4,6 +4,8 @@ int main(){
 
     int bispo, torre, dama = 8;
 
+    printf("Desafio XADREZ!");
+
     for(torre = 0; torre < 5; torre++){
         printf("Torre: Direita.\n"); 
    }
